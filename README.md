@@ -31,12 +31,11 @@ Aspiring software engineer passionate about C/C++, low-level programming and bui
 
 <h2 align="center"> 📊 GitHub Stats </h2>
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=luys93&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luys93&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
 <img width="70%" src="https://streak-stats.demolab.com?user=luys93&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=luys93&theme=github_dark&hide_border=true&layout=compact" width="48%" /> 
 </p>
